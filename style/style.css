@@ -675,7 +675,7 @@ h5 {
           margin-top: 11rem;
           margin-left: 0rem;
           margin-right: 0rem;
-          font-size: 2.5rem;
+          font-size: 3.5rem;
           color: #ffffff;
           font-family: 'Montserrat', sans-serif;
           text-shadow: #fe47b2 5px 3px 8px;
@@ -684,15 +684,15 @@ h5 {
      h2 {
           margin-top: 1rem;
           text-align: center;
-          font-size: 1.5rem;
+          font-size: 2.5rem;
           color: #ffdc41;
           font-family: 'Montserrat', sans-serif;
      }
 
      .logo {
           margin-top: 0rem;
-          width: 4rem;
-          height: 4rem;
+          width: 7rem;
+          height: 7rem;
           margin-bottom: 7rem;
      }
 
