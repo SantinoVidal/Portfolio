@@ -656,7 +656,7 @@ h5 {
 
      .nav li a {
           color: #111111;
-          font-size: 1rem;
+          font-size: 0.8rem;
           text-decoration: none;
           transition: 0.4s;
           font-family: 'Montserrat', sans-serif;
@@ -714,7 +714,7 @@ h5 {
 
      .nav li p {
           margin: 0rem;
-          font-size: 1rem;
+          font-size: 0.8rem;
           color: #fe47b2;
           transition: 0.4s;
      }
