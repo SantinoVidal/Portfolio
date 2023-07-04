@@ -507,7 +507,7 @@ p {
 
 .bandera img {
      height: 6rem;
-     border-radius: 5px;
+     border-radius: 0.5rem;
 }
 
 .idioma {
@@ -1069,14 +1069,14 @@ h5 {
      /* Idiomas */
 
      #langLink {
-          margin-top: 1rem;
+          margin-top: 0rem;
           margin-bottom: 2rem;
      }
 
      .lang {
           background-color: #262626;
           padding-top: 2rem;
-          padding-bottom: 1rem;
+          padding-bottom: 0.5rem;
           margin-top: 3rem;
           margin-left: 2.7rem;
           margin-right: 2.7rem;
@@ -1094,7 +1094,7 @@ h5 {
           color: white;
           text-shadow: #000000 1px 2px 11px;
           text-align: center;
-          margin-bottom: 1.5rem;
+          margin-bottom: 1rem;
           margin-top: 0rem;
           font-family: 'Montserrat', sans-serif;
      }
@@ -1108,7 +1108,7 @@ h5 {
 
      .bandera img {
           height: 4rem;
-          border-radius: 5px;
+          border-radius: 0.5rem;
      }
 
      .idioma {
