@@ -485,7 +485,7 @@ p {
      flex-wrap: wrap;
      border: solid 0px #111111;
      border-radius: 6px;
-     box-shadow: #ffdc41 1px 1px 18px;
+     box-shadow: #00c6f2 1px 1px 18px;
 }
 
 .lang h4 {
@@ -506,7 +506,6 @@ p {
 }
 
 .bandera img {
-     height: 6rem;
      border-radius: 0.5rem;
 }
 
@@ -1086,7 +1085,7 @@ h5 {
           flex-wrap: wrap;
           border: solid 0px #111111;
           border-radius: 6px;
-          box-shadow: #ffdc41 1px 1px 18px;
+          box-shadow: #00c6f2 1px 1px 18px;
      }
 
      .lang h4 {
