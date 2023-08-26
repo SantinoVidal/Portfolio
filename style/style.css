@@ -219,9 +219,9 @@ h3 {
 }
 
 p {
-     margin-top: 4rem;
+     margin-top: 2.5rem;
      margin-bottom: -2rem;
-     font-size: 1.9rem;
+     font-size: 1.4rem;
      color: #111111;
      text-align: center;
      font-family: 'Montserrat', sans-serif;
@@ -274,6 +274,7 @@ p {
 }
 
 .transformed {
+     margin-top: -1rem;
      transform: rotate(180deg);
 }
 
@@ -382,7 +383,7 @@ p {
 
 .card {
      width: 100%;
-     height: 47rem;
+     height: 48.5rem;
      margin: 20px;
      margin-left: 1rem;
      margin-right: 1rem;
@@ -651,6 +652,7 @@ h5 {
      .nav li {
           list-style: none;
           padding: 12px 0;
+          margin-bottom: -0.5rem;
      }
 
      .nav li a {
@@ -707,7 +709,7 @@ h5 {
 
      .change-bg {
           width: 360px;
-          height: 600px;
+          height: 530px;
           transform: translate(-60%, -30%);
      }
 
@@ -716,6 +718,7 @@ h5 {
           font-size: 0.8rem;
           color: #fe47b2;
           transition: 0.4s;
+          margin-top: 0rem;
      }
 
      .nav li p:hover {
@@ -805,7 +808,7 @@ h5 {
           margin-left: 3rem;
           margin-right: 3rem;
           margin-top: 1rem;
-          margin-bottom: -1rem;
+          margin-bottom: -2rem;
           background-color: #ffdc41;
           border-radius: 6px;
      }
@@ -866,6 +869,7 @@ h5 {
      }
 
      .transformed {
+          margin-top: -0.1rem;
           transform: rotate(180deg);
      }
 
@@ -981,7 +985,7 @@ h5 {
 
      .card {
           width: 17.8rem;
-          height: 36.5rem;
+          height: 40.5rem;
           margin-top: 1.3rem;
           border-radius: 6px;
           background-color: #262626;
